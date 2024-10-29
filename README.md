@@ -1,6 +1,7 @@
 # Proiect-IMR-VR Diner
 Echipă:
 Varzar Alina-Miruna
+
 Pâncă Aida-Gabriela
 
 Am atașat aici link-uri către cele 2 documente docs pentru Laboratorul 5 (le-am încărcat și ca PDF-uri în folderul VR Diner)
